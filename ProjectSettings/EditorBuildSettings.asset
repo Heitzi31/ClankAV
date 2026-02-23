@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 7d6d5743e08d5414092dd53c7d8f855b
+  - enabled: 1
+    path: Assets/Scenes/Spielfeld.unity
+    guid: 4aca7abe6fd97514da2efa60cdd12f0d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2d803543dd08fb1459ffea2a956d5d1b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 367b6a23708c7944b8ee81de858e723d, type: 2}
+  m_UseUCBPForAssetBundles: 0
